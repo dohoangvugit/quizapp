@@ -36,7 +36,6 @@ class QuizDb {
       )
     ''');
 
-    // Insert vài câu hỏi mẫu
     await _seedData(db);
   }
 
