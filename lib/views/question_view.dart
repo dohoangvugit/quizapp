@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../repository/quiz_repository.dart';
+import '../controllers/quiz_controller.dart';
 
 class QuestionView extends StatefulWidget {
   final int topicId;

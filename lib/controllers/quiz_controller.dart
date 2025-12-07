@@ -1,4 +1,4 @@
-import '../data/database/database_helper.dart';
+import '../data/database_helper.dart';
 import '../models/topic.dart';
 import '../models/question.dart';
 
