@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## code theo MVC
-## Hùng FE thì code vào Views
-## Vũ BE thì code vào model, controller và routes
+## Hùng code vào Views
+## Vũ code vào model, controllers 
 
