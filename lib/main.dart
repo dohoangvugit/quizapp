@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'view/topic_view.dart';
+import 'views/topic_view.dart';
 
 void main() {
   runApp(const MaterialApp(
